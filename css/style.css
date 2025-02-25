@@ -2,3 +2,33 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+body {
+  background-color: #f5f5f5;
+  font-family: "Arial", sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+  width: 60%;
+  border-radius: 10px;
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 1.2em;
+  margin-top: 10px;
+}
+
+.mdl-button {
+  margin-top: 20px;
+}
